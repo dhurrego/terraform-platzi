@@ -1,4 +1,4 @@
 variable "rg_storage" {
-  type = string
+  type    = string
   default = "rg_storage"
 }
